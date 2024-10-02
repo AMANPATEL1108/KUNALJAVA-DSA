@@ -1,11 +1,13 @@
 # [Video Link](https://youtu.be/ldYLYRNaucM)
-## Write Java programs for the following: 
+
+## Write Java programs for the following:
 
 ### Basic Java Programs
+
 1. Area Of Circle Java Program
 2. Area Of Triangle
-3. Area Of Rectangle Program 
-4. Area Of Isosceles Triangle 
+3. Area Of Rectangle Program
+4. Area Of Isosceles Triangle
 5. Area Of Parallelogram
 6. Area Of Rhombus
 7. Area Of Equilateral Triangle
@@ -23,20 +25,21 @@
 19. Curved Surface Area Of Cylinder
 20. Total Surface Area Of Cube
 21. Fibonacci Series In Java Programs
-22. [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
+22. [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) //Completed On LeetCode
 23. Input a number and print all the factors of that number (use loops).
 24. Take integer inputs till the user enters 0 and print the sum of all numbers
-(HINT: while loop)
+    (HINT: while loop)
 25. Take integer inputs till the user enters 0 and print the largest number from
-all.
+    all.
 26. Addition Of Two Numbers
 
 ### Intermediate Java Programs
+
 1. Factorial Program In Java
 2. Calculate Electricity Bill
 3. Calculate Average Of N Numbers
 4. Calculate Discount Of Product
-5. Calculate Distance Between Two Points 
+5. Calculate Distance Between Two Points
 6. Calculate Commission Percentage
 7. Power In Java
 8. Calculate Depreciation of Value
@@ -48,11 +51,11 @@ all.
 14. Armstrong Number In Java
 15. Find Ncr & Npr
 16. Reverse A String In Java
-17. Find if a number is palindrome or not 
+17. Find if a number is palindrome or not
 18. Future Investment Value
 19. HCF Of Two Numbers Program
 20. LCM Of Two Numbers
-21. Java Program Vowel Or Consonant 
+21. Java Program Vowel Or Consonant
 22. Perfect Number In Java
 23. Check Leap Year Or Not
 24. Sum Of A Digits Of Number
