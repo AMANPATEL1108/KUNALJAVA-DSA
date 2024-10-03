@@ -1,14 +1,26 @@
-public class NextGreatestLetter {
+public class SmallestLetter {
     public static void main(String[] args) {
-        int[] arr={'c','d','g','j'};
+        char[] arr={'c','d','g','j'};
         int target='c';
-        int ans=FindGreatestLetter(arr,target);
+        int ans=nextGreatestLetter(arr, 'c');
+        System.out.println(ans);
 
     }
-    static char FindGreatestLetter(int[] arr, int target) {
 
+
+    static char nextGreatestLetter(char[] letters, char target) {
+        int start=0;
+        int end=letters.length-1;
+        while (start<=end){
+            int mid=start+(end-start)/2;
+            if (target<letters[mid]){
+                end=mid-1;
+            }else{
+                start =mid+1;
+            }
+
+        }
+        return letters[start % letters.length];
     }
-
-
 
 }
