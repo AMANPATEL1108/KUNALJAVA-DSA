@@ -1,5 +1,29 @@
+import java.util.Arrays;
+
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+    int[] arr={3,5,2,1,4};
+    CyclicSort(arr);
+        System.out.println(Arrays.toString(arr));
+    }
+
+    static void CyclicSort(int[] arr){
+
+        int i=0;
+        while (i<arr.length){
+            int correct=arr[i]-1;
+            if (arr[i]!=arr[correct]){
+                Swap(arr,i,correct);
+            }else {
+                i++;
+            }
+        }
+
+    }
+
+    static  void Swap(int[] arr,int first,int second){
+        int temp=arr[first];
+        arr[first]=arr[second];
+        arr[second]=temp;
     }
 }
