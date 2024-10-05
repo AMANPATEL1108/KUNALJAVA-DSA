@@ -1,14 +1,14 @@
 public class Main {
     public static void main(String[] args) {
 
-//       Pattern1(5);
-//        Pattern2(5);
-//        Pattern3(5);
-//        Pattern4(5);
-//        Pattern5(5);
-//        Pattern28(5);
-//        Patetrn30(5);
-//        Patetrn17(5);
+        //       Pattern1(5);
+        //        Pattern2(5);
+        //        Pattern3(5);
+        //        Pattern4(5);
+        //        Pattern5(5);
+        //        Pattern28(5);
+        //        Patetrn30(5);
+        //        Patetrn17(5);
         Pattern31(4);
     }
 
