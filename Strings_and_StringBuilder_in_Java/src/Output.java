@@ -1,2 +1,14 @@
-package PACKAGE_NAME;public class Output {
+public class Output {
+    public static void main(String[] args) {
+
+//        System.out.println(56);
+//        Integer num=new Integer(56);
+//        System.out.println(num);
+//        System.out.println(num.toString());
+//        System.out.println("aman");
+//        System.out.println(new int[]{2,3,4});
+//        String name=null;
+//        System.out.println(name);
+
+    }
 }
