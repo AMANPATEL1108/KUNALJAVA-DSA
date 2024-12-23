@@ -1,4 +1,5 @@
 # Videos
+
 - [Bubble Sort](https://youtu.be/F5MZyqRp_IM)
 - [Selection Sort](https://youtu.be/Nd4SCCIHFWk)
 - [Insertion Sort](https://youtu.be/By_5-RRqVeE)
@@ -9,6 +10,7 @@
 # Questions
 
 ## Easy
+
 - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 - [Majority Element](https://leetcode.com/problems/majority-element/)
 - [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
@@ -16,7 +18,7 @@
 - [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 - [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 - [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)
-- [Assign Cookies](https://l    eetcode.com/problems/assign-cookies/)
+- [Assign Cookies](https://l eetcode.com/problems/assign-cookies/)
 - [Array Partition I](https://leetcode.com/problems/array-partition-i/)
 - [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)
 - [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
@@ -41,6 +43,7 @@
 - [2Sum](https://leetcode.com/problems/two-sum/)
 
 ## Medium
+
 - [3Sum](https://leetcode.com/problems/3sum/)
 - [3Sum Closest](https://leetcode.com/problems/3sum-closest/)
 - [4Sum](https://leetcode.com/problems/4sum/)
@@ -55,4 +58,5 @@
 - [Find all Duplicates in an array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
 
 ## Hard
+
 - [First missing Positive](https://leetcode.com/problems/first-missing-positive/)
