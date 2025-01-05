@@ -47,7 +47,7 @@
 - [3Sum](https://leetcode.com/problems/3sum/)
 - [3Sum Closest](https://leetcode.com/problems/3sum-closest/)
 - [4Sum](https://leetcode.com/problems/4sum/)
-- [["eat","tea","tan","ate","nat","bat"]](https://leetcode.com/problems/group-anagrams/)
+- [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 - [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 - [Sort Colors](https://leetcode.com/problems/sort-colors/)
 - [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)
