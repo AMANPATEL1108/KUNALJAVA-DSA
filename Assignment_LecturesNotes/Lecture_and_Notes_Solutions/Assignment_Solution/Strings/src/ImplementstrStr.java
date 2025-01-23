@@ -1,6 +1,5 @@
 public class ImplementstrStr {
     public static void main(String[] args) {
-//        haystack = "sadbutsad", needle = "sad"
         String s1="sadbutsad";
         String s2="sad";
         System.out.println(strStr(s1,s2));
@@ -11,6 +10,6 @@ public class ImplementstrStr {
             return haystack.indexOf(needle);
         }
         return -1;
-    
+
     }
 }
