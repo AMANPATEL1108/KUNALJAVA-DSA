@@ -1,7 +1,7 @@
 public class ReverseBits {
     public static void main(String[] args) {
-    int a=00000010100101000001111010011100;
-        System.out.println(reverseBits(a));
+//    int a=00000010100101000001111010011100;
+//        System.out.println(reverseBits(a));
     }
 
     public static int reverseBits(int n) {
