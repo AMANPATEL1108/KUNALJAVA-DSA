@@ -1,11 +1,11 @@
-public class LL {
+public class SinglyLinedList {
 
     private Node head;
     private Node tail;
 
     private int size;
 
-    public LL() {
+    public SinglyLinedList() {
         this.size = 0;
     }
 
